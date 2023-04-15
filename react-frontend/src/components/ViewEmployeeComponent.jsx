@@ -34,7 +34,7 @@ class ViewEmployeeComponent extends Component {
                         </div>
                         <div className = "row">
                             <label> Employee Email ID: </label>
-                            <div> { this.state.employee.emailId }</div>
+                            <div> { this.state.employee.emailid }</div>
                         </div>
                     </div>
 
